@@ -1,6 +1,6 @@
 
-somma = function (a,b){
-  somma=a+b
+somma = function (a,b,c){
+  somma=a+b+c
   return(somma)
 }
 
