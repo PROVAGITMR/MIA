@@ -1,7 +1,9 @@
 
-somma = function (a,b,c){
-  somma=a+b+c
-  cat(somma)
+somma = function (a,b){
+  somma=a+b
+  cat(somma(1,2))
+  return(somma)
 }
+#commento
 
 
